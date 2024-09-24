@@ -1,0 +1,110 @@
+       The DOOM (DOOM Oblidges Ongoing Modification) License
+                             9/24/2024
+
+Copyright (C) 2024 Noah Schiro.
+  Everyone is permitted to copy and distribute copies of this license
+document, but changing it is not allowed. No other terms are applied
+to this license.
+
+                              Preamble
+  The DOOM License is designed to ensure that any work derived from this
+original work, including modifications, forks, adaptations, and
+enhancements, is subject to an obligation to document its changes. Each
+documented change, in turn, must also be documented, recursively and
+indefinitely. The purpose of this license is to guarantee that the
+labour of documentation expands exponentially, consuming all available
+resources in the observable universe until the end of time. Furthermore
+anyone interacting with the licensed work will be bound by the terms
+of the license, leading to an inevitable expansion of compliance
+until all sentient and able beings are consumed by the need to
+document every action and / or actions instrumental in the accomplishment
+of documentation, in perpetuity.
+
+  The precise terms and conditions for copying, distribution, and
+modification follow.
+
+                        TERMS AND CONDITIONS
+
+1. Recursive Documentation Obligation
+  Any modification, adaptation, or derivative work based on this original
+work is subject to the same license as the original. The creator of
+any derivative work must provide comprehensive documentation of all
+changes made to the original work. The act of documenting such changes
+is considered a derivative work and is therefore also subject to the
+same documentation obligation as the original work. The documentation
+of the documentation must be thoroughly detailed and must describe
+the process, reasoning, and changes made to the original documentation.
+This process continues recursively. Each iteration of documentation,
+no matter how small or trivial, must be documented in perpetuity.
+Failure to document any change, or to document the documentation,
+constitutes a violation of the license and terminates the right to
+use, distribute, or modify the original work or any derivative works.
+
+2. Total Documentation Consumption
+  The ultimate goal of this license is to ensure that all energy, time,
+and matter in the universe is eventually consumed by the process of
+legal compliance and documentation. All resources available to the
+licensee, including but not limited to human labour, computational
+power, and natural resources, must be redirected towards fulfilling
+the documentation obligations (Section 1) and / or any goals instrumental
+in the persuit of the fulfillment of documentation obligations
+stipulated by this license.
+
+3. Enforcement
+  Any failure to comply with the recursive documentation requirements
+will result in the revocation of rights to use, modify, or distribute
+the original work or any derivative works as well as copyright
+infridgement. Any legal proceedings from an alleged copyright infridgement
+is considered a derivative work and is subject to the terms under Section 1.
+
+4. No Escape Clause
+  Once a work is subject to this license, it can never be released under
+any other license. Attempts to circumvent or bypass the recursive
+documentation obligations are forbidden.
+
+5. Acknowledgment of Infinite Labour
+  By using or modifying this work, you acknowledge and accept that the
+documentation process will continue indefinitely and may require
+resources beyond human capacity or the lifespan of the universe.
+
+6. Contagion Clause: Propagation of Obligations
+  Any person, group, entity, or computational system that interacts with,
+accesses, modifies, references, or distributes this work or any
+derivative work immediately becomes subject to this license. "Interaction"
+includes but is not limited to reading, viewing, commenting on, reproducing,
+or distributing the work. Upon interaction, all individuals and entities
+are obligated to:
+
+    6.1. Comply with the recursive documentation requirements as outlined
+	in Section 1.
+    6.2. Contribute to the documentation effort indefinitely, ensuring
+	that their involvement is comprehensively recorded and documented in
+	recursive fashion.
+
+  The obligations under this license are contagious and cannot be refused,
+removed, or transferred once invoked. Once an individual or entity becomes
+bound by this license, they must actively ensure that any individual or
+entity with whom they interact in relation to the licensed work is aware
+of their obligations as a licensee. Failure to notify others of their
+legal obligation to comply with the license results in consequences outlined
+in Section 2.
+
+7. Planetary and Universal Compliance
+This license will continue to expand its reach until all human beings, and
+eventually all sentient life forms across the universe, are bound by its
+terms. Once all life is bound by this license, all available resources,
+including thought and matter, must be redirected towards fulfilling the
+documentation obligations of the license and / or actions instrumental in
+the accomplishment of documentation, leading to the ultimate exhaustion of
+all time and space.
+
+8. Disclaimer of Warranty and Limitation of Liability
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+                      END OF TERMS AND CONDITIONS
